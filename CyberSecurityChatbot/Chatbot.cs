@@ -4,7 +4,7 @@ using System.Threading;
 
 class Chatbot
 {
-    // show ASCII logo
+    // show ASCII Logo
     public static void ShowLogo()
     {
         Console.ForegroundColor = ConsoleColor.Cyan;
