@@ -84,7 +84,7 @@ class Chatbot
                 input = input.ToLower();
             }
 
-            // empty input
+            // display this when there's is an empty input
             if (input == "")
             {
                 Console.WriteLine("Bot: Please type something.");
