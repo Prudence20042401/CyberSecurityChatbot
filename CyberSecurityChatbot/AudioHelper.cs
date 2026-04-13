@@ -1,4 +1,5 @@
-﻿using System.Media;
+﻿// this method plays the greeting sound
+using System.Media;
 using System.IO;
 
 class AudioHelper
