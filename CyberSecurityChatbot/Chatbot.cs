@@ -1,4 +1,5 @@
-﻿using System;
+﻿//This is the main file of the program
+using System;
 using System.Threading;
 
 class Chatbot
