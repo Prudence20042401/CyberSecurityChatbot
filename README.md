@@ -22,6 +22,8 @@ It helps people learn how to stay safe online.
 
 ## CI
 GitHub Actions is used to check the project.
+![CI Screenshot] (https://github.com/Prudence20042401/CyberSecurityChatbot/blob/master/Screenshot%20.png)
+
 
 
 ## Author
