@@ -93,7 +93,7 @@ class Chatbot
             // responses
             else if (input.Contains("how are you"))
             {
-                TypeText("I am fine. I am here to help you stay safe online.");
+                TypeText("I am fine and ready to help you stay safe online.");
             }
             else if (input.Contains("purpose"))
             {
