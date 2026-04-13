@@ -12,7 +12,7 @@ It helps people learn how to stay safe online.
 
 ## How to Run
 1. Open the project in Visual Studio  
-2. Build the project  
+2. Choose or create the project  
 3. Run the program  
 
 ## Tools Used
