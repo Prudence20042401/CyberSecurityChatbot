@@ -9,7 +9,7 @@ class Chatbot
         Console.ForegroundColor = ConsoleColor.Cyan;
 
         Console.WriteLine("=======================================");
-        Console.WriteLine("      CYBERSECURITY AWARENESS BOT");
+        Console.WriteLine("      CYBERSECURITY CHATBOT");
         Console.WriteLine("=======================================");
         Console.WriteLine(@"
           _______
