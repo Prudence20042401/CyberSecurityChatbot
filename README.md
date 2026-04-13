@@ -23,7 +23,6 @@ It helps people learn how to stay safe online.
 ## CI
 GitHub Actions is used to check the project.
 
-(Add screenshot here)
 
 ## Author
 Prudence
